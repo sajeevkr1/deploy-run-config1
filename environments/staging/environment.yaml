@@ -38,6 +38,7 @@ app:
   # is allocated to the application; and so on.  
   resources:
     # The vCPU number for the application. If not set, it defaults to 1 vCPU. 
+    #test
     # The max number of vCPU that can be requested is 14.
     cpu: 1
 
